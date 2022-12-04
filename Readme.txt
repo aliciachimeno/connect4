@@ -15,6 +15,6 @@ connect4.h:
 To run the executable press play button in the main.c file. Now is your turn to play! Try to win the computer.  
  
  
-Comments?  Feedback?  Want to get involved?  Email me at 1565281@uab.cat. Later on, the project will be uploaded at https://github.com/aliciachimeno/uabprojects. 
+Comments?  Feedback?  Want to get involved?  Email me at 1565281@uab.cat. Later on, the project will be uploaded at https://github.com/aliciachimeno/connect4. 
 
 Thanks for checking it out:)
