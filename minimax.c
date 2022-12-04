@@ -39,10 +39,8 @@ return p;
 }
 
 void CreateLevel(Node *father, int level){
-  int i,childindex=0;
-  for(i=0;i<father->n_children;i++){
+  for(int i=0;i<father->n_children;i++){
       father->children[i]=CreateNode(father->board,i,level);
-      i++;
   }
 }
 
